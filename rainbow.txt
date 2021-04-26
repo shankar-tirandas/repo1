@@ -1,5 +1,4 @@
 purple
-blue
 gree
 yellow
 white
